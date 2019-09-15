@@ -4,4 +4,5 @@ class Dog
   @@names
 
    attr_accessor :name
-def initil
+  def initialize(name)
+@name = name
