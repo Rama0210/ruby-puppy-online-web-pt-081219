@@ -10,3 +10,5 @@ end
 @@name << self.name
 self.save
 end
+
+def save
