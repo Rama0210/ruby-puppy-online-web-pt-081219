@@ -4,3 +4,4 @@ class Dog
   @@names
 
    attr_accessor :name
+def initiaze
