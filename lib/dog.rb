@@ -12,3 +12,4 @@ self.save
 end
 
 def save
+  @@all
