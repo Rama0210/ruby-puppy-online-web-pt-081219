@@ -8,3 +8,4 @@ end
   def initialize(name)
 @name = name
 @@name << self.name
+self.
