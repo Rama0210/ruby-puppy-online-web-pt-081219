@@ -2,4 +2,3 @@
 class Dog 
   @@all
   @@names
-end
